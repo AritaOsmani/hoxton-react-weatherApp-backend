@@ -1,0 +1,44 @@
+{
+  "searched": [
+    {
+      "city": "Pristina",
+      "country": "Kosovo",
+      "temp": -3,
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+      "text": "Partly cloudy",
+      "id": 12
+    },
+    {
+      "city": "Tirana",
+      "country": "Albania",
+      "temp": 12,
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "text": "Sunny",
+      "id": 14
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "temp": 5,
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+      "text": "Partly cloudy",
+      "id": 15
+    },
+    {
+      "city": "New York",
+      "country": "United States of America",
+      "temp": 2.2,
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+      "text": "Light rain",
+      "id": 16
+    },
+    {
+      "city": "Brussels",
+      "country": "Belgium",
+      "temp": 8,
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+      "text": "Light rain",
+      "id": 17
+    }
+  ]
+}
